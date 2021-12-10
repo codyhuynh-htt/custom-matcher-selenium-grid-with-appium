@@ -32,4 +32,5 @@ Capabilities and unique device `udid`
 ```java -cp selenium-server-standalone-3.141.59.jar:selenium-grid-custom-matcher-3.141.59.jar org.openqa.grid.selenium.GridLauncherV3 -role hub -hubConfig hubConfig.json```
 
 # CREDIT
-[selenium-grid-capability-matcher](https://github.com/mgrybyk/selenium-grid-capability-matcher)
+Mykola Grybyk: [selenium-grid-capability-matcher](https://github.com/mgrybyk/selenium-grid-capability-matcher)
+Tu Huynh: [selenium-grid-capability-matcher](https://github.com/TuHuynhVan/custom-matcher-selenium-grid-with-appium)
